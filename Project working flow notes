@@ -1,0 +1,65 @@
+=======5 Step Data Analysis project=======
+1) Requirement Understanding
+2) Mockups & Solutions design
+3) Data collections & Data modelling
+4) Dashboarding & Insight generation
+5) Stackholder’s feedback
+
+
+=======Who am I here?=======
+
+I’m a data analyst who has been provided with sample data and a mock-up dashboard
+to work on the following task. I have download all relevant documents from the email.
+
+======= Milestone 1/5 Requirement Understanding =======
+(Problem statement)
+1. Create the metrics according to the metric list.
+2. Create a dashboard according to the mock-up provided by stakeholders.
+3. Create relevant insights that are not provided in the metric list/mock-up
+dashboard.
+(looking at all documents)
+
+
+======= Milestone 2/5 Mockups & Solutions design =======
+(Mock up review with stackholder)
+Interesting facts+info from Domain expert/stackholder:
+1) Weekends in hospitality is Fri-Sat not Sat-Sun.
+2) Revenue[100% money of booking] from cancellation is not counted in main
+revenue due to accounting purpose.
+3) (get IMP metric list from them to show on dashboard).
+4) After level 1 analysis - holistic view, in level 2 add filter of channels(from where
+booking was done).
+5) Level 1 metric tell you there’s a problem or not. If ans is yes then got to next
+level
+Level 2 metric tell you why there’s a problem
+6) Dashboards should answer WHYs.
+
+
+======= Milestone 3/5 Data collections & Data modelling =======
+(Pipelines – Data source->Power Query->DAX->Dashboarding)
+======= Milestone 4/5 Dashboarding & Insight generation ======
+(Data transformation using Power query and data modeling)
+1) A power query is a nothing but place where you can do your data transformation
+2) Modeling — Star schema(fact table is surrounded by dimension tables, like SQL)
+3) Manage relationship for PowerBI and Slice and Dice
+(Building matrices using DAX -data analysis expression)
+1) DAX – Calculated columns & Measures – making 26 different measures
+(Build The Visuals and Dashboard in PowerBI)
+1) Created table with all — — fields….don't know why they choose on first place
+2) Created multiple sami dashboards and graphs and attached them in one
+dashboard
+
+
+======= Milestone 5/5 Stackholder’s feedback =======
+1) Important key metrics order changes: RevPAR// Occupancy// ADR// Realisation
+2) Set important key metrics for weekday and weekend as a row.
+3) Booking platform as known as channels.
+4) Line graph relation might show revenue opportunity if RevPER is not changing
+and occupancy is changing.
+5) There are three types of pricing:
+Flat Pricing
+Weekday/Weekend Pricing
+Dynamic Pricing
+6) Key question: How does PRICING influence The Occupancy?
+7) The Pareto Principle: Effort: 20/80 Results: 80/20
+8) Graph of rating inside the main table and occupancy are related to each other.
