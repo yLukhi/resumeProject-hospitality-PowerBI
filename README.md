@@ -2,5 +2,6 @@
 
 ### Live dashboard interation: https://www.novypro.com/project/project-on-hospitality 
 
-### for more info please refer documentaion(pdf file)
-#### PowerBI-Project02
+### for more info please refer above documentaion
+
+Feel free to share your thoughts and feedbacks!
